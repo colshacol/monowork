@@ -33,7 +33,7 @@ useful for when you update a script in one of your packages and want to easily u
 monowork refresh
 ```
 
-![monowork demo](https://github.com/colshacol/foreign-storage/blob/master/images/refresh-demo.gif)
+![monowork demo](https://user-images.githubusercontent.com/19484365/59804523-1721d900-92de-11e9-96ae-084c019af663.gif)
 
 ### --help
 
